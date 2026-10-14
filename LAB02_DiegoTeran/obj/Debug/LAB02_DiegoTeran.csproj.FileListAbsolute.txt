@@ -1,0 +1,7 @@
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\bin\Debug\LAB02_DiegoTeran.exe.config
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\bin\Debug\LAB02_DiegoTeran.exe
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\bin\Debug\LAB02_DiegoTeran.pdb
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\obj\Debug\LAB02_DiegoTeran.csproj.AssemblyReference.cache
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\obj\Debug\LAB02_DiegoTeran.csproj.CoreCompileInputs.cache
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\obj\Debug\LAB02_DiegoTeran.exe
+C:\Users\Diego Teran\Desktop\PIV\semana4Aula1\LAB02_DiegoTeran\obj\Debug\LAB02_DiegoTeran.pdb
